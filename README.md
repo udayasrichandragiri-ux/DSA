@@ -1,16 +1,11 @@
-# DSA
-C++ solutions for Week 1 DSA assignments: Linear Search, Binary Search, Bubble Sort, array reversal, and Student Marks Analyzer.
-
-
-
 # DSA Week 1 Assignments
 
 This repository contains my C++ programs for Week 1 of Data Structures and Algorithms.
 
 ## Student Details
 
-- Name: Your Name
-- Roll Number: Your Roll Number
+- Name: Chandragiri Udayasri
+- Roll Number: 246Y1A0553
 - Course: Data Structures and Algorithms
 - Week: 1
 
@@ -24,9 +19,9 @@ This repository contains my C++ programs for Week 1 of Data Structures and Algor
 - Bubble Sort
 - Array Reversal
 
-## Programs
+ Programs
 
-### 1. Linear Search
+ 1. Linear Search
 
 File: `linear_search.cpp`
 
@@ -34,7 +29,7 @@ This program searches for a target element by checking each array element one by
 
 Time Complexity: `O(n)`
 
-### 2. Binary Search
+2. Binary Search
 
 File: `binary_search.cpp`
 
@@ -42,7 +37,7 @@ This program searches for a target element in a sorted array by repeatedly check
 
 Time Complexity: `O(log n)`
 
-### 3. Bubble Sort With Swap Count
+ 3. Bubble Sort With Swap Count
 
 File: `bubble_sort_swaps.cpp`
 
@@ -50,7 +45,7 @@ This program sorts an array in ascending order using Bubble Sort and counts the 
 
 Time Complexity: `O(n^2)`
 
-### 4. Reverse an Array
+ 4. Reverse an Array
 
 File: `reverse_array.cpp`
 
@@ -58,7 +53,7 @@ This program reverses an array in place without using another array.
 
 Time Complexity: `O(n)`
 
-### 5. Student Marks Analyzer
+ 5. Student Marks Analyzer
 
 File: `student_marks_analyzer.cpp`
 
@@ -68,6 +63,7 @@ This mini project:
 - Sorts marks in descending order.
 - Displays the top three marks.
 
-## Programming Language
+ Programming Language
 
 - C++
+- 
